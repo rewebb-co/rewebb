@@ -1,0 +1,23 @@
+{
+  "name": "rewebb",
+  "version": "1.0.0",
+  "description": "rewebb.co",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "website",
+    "rewebb",
+    "rewebb.co"
+  ],
+  "author": "Rewebb <inquiry@rewebb.co>",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^5.4.3"
+  },
+  "devDependencies": {
+    "vite-plugin-restart": "^0.4.1"
+  }
+}
