@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-Created proudly by rewebb.
+made proudly by rewebb.
