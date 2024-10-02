@@ -12,7 +12,7 @@
     "rewebb",
     "rewebb.co"
   ],
-  "author": "Rewebb <inquiry@rewebb.co>",
+  "author": "rewebb <inquiry@rewebb.co>",
   "license": "MIT",
   "dependencies": {
     "vite": "^5.4.3"
